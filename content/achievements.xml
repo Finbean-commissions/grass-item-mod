@@ -1,0 +1,4 @@
+<achievements gfxroot="gfx/ui/achievement/">
+	<achievement name="unlockGrassItem" text='' gfx="achievement_unlockGrassItem.png" />
+	<achievement name="unlockMaestro" text='' gfx="achievement_unlockGrassItem.png" />
+</achievements>

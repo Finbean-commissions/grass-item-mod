@@ -1,0 +1,16 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/death items.anm2">
+    <trinket
+        id="1"
+        name="Lucky!"
+        description="You deserve it!"
+        gfx="touchgrass.png"
+        achievement="1"
+    />
+    <null
+        id="100"
+        name="D&B Record"
+        description=""
+        gfx=""
+        persistent="true"
+    />
+</items>

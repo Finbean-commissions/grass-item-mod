@@ -1,0 +1,14 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/"> 
+	<player 
+		name="Phillip"
+		skin="soundMaestro.png" modcostume="1" costumeSuffix="soundMaestro"
+		nameimage="soundMaestro_nameimage.png"  portrait="soundMaestro_portrait.png"
+		skinColor="-1"
+		birthright="Synesthesia"
+		achievement="unlockMaestro"
+
+		heartcontainers="4"
+		redhearts="4"
+		damagemodifier="1.15"
+	/>
+</players>

@@ -1,0 +1,14 @@
+<costumes anm2root="gfx/characters/">
+	<costume
+		anm2path="soundMaetstro_hair.anm2"
+		type="none"
+		id="1"
+		priority="98"
+	/>
+	<costume
+		anm2path="recordDnB_costume.anm2"
+		type="none"
+		id="100"
+		priority="99"
+	/>
+</costumes>
